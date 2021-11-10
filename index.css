@@ -1,0 +1,46 @@
+.Emphasize1{
+    color: red;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+html *
+{
+    font-family: 'Open Sans', sans-serif !important;
+   
+}
+.image{
+    background-color: #a960d4;
+    color: #a960d4;
+    
+ 
+   
+}
+.grid-container-element { 
+    display: flexbox;
+    white-space: nowrap;
+    justify-content: right;
+} 
+.imagepic{
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.3;
+    color: #a960d4;
+    background-color: #a960d4;
+    
+}
+.Container-Card{
+    display: inline-flex;
+    border-radius: 3px;
+    background-color: #a960d4;
+    width: 800px;
+    
+    
+}
+.Containerdiv{
+    text-align: center;
+}
+.Borderbox{
+    border-radius: 5px 5px 5px 5px;
+}
